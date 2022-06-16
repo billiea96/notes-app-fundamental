@@ -13,6 +13,8 @@
         "no-console": "off",
         "quotes": ["error", "double"],
         "no-underscore-dangle": "off",
-        "comma-dangle": "off"
+        "comma-dangle": "off",
+        "operator-linebreak": "off",
+        "implicit-arrow-linebreak": "off"
     }
 }
